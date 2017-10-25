@@ -14,9 +14,9 @@ cd denispastory.io
 Now go to localhost:9000 on your browser to start using the jupyter notebooks.
 
 Contents
-Lesson 0: 
-Lesson 1:
-Lesson 2:
+Lesson 0: <br>
+Lesson 1: <br>
+Lesson 2:<br>
 
 Support
 
