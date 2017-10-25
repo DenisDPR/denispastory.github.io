@@ -7,5 +7,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## LESSONS
 Abstract: [ABSTRACT](https://github.com/DenisDPR/denispastory.github.io/new/master) <br>
+
 Lesson 0: [Netatmo Sensor Validation in Greenhouse](https://github.com/DenisDPR/Sensor-Network-Project/blob/master/Netatmo_sensor_validation.ipynb)
 
