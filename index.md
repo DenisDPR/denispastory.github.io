@@ -4,15 +4,8 @@ You can use the [editor on GitHub](https://github.com/DenisDPR/denispastory.gith
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+
 ## LESSONS
+Abstract: [ABSTRACT](https://github.com/DenisDPR/denispastory.github.io/new/master)
 Lesson 0: [Netatmo Sensor Validation in Greenhouse](https://github.com/DenisDPR/Sensor-Network-Project/blob/master/Netatmo_sensor_validation.ipynb)
 
-
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DenisDPR/denispastory.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
