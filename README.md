@@ -8,7 +8,6 @@ Mainly with application in sensor network analysis and it's application in Agric
 
 Tutorials on Data science Sensor Network
 
-Use the following commands to run from docker1.
 git clone https://github.com/denisDPR/denispastory.io.git
 cd denispastory.io
 
